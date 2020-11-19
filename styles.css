@@ -1,0 +1,84 @@
+
+
+.flexed {
+    display: flex;
+    margin: auto;
+}
+
+#picture_right {
+    padding-top: 1.2cm;
+    padding-bottom: 3cm;/*To force the footer to stay in botton*/
+}
+
+
+
+.center_image {
+    display: block; 
+    margin: auto; 
+}
+
+#header {
+    background-color: rgb(0, 0, 0);
+}
+
+body {
+    margin: 0;
+    background-color: rgb(255, 255, 255);
+}
+
+.border {
+    margin: 40px;
+}
+
+#navigation {
+    text-align: center
+}
+
+.separation {
+    margin-left: 50px;
+}
+
+
+/*Animation for the footer imgs* and navigation bar*/
+.hover_link img {
+    transition:all .9s ease;
+    width:100%;
+}
+.hover_link:hover img {
+    transform:scale(1.25);
+}
+.hover_link {
+    width:300px;
+    height:180px;
+    overflow:hidden;
+}
+
+#footer {
+    padding: 20px;
+}
+.bg_black {
+    background-color: black;
+}
+
+.center_div {
+    margin: auto;
+}
+/**********Työkokemus ja koulutus**********/
+
+
+
+dt {
+    color: rgb(235, 42, 17);
+}
+
+ul dt {
+    color: black;
+}
+
+dd dl dt {
+    color: black;
+}
+
+.controll_content_size {
+    font-size: 25px;
+}

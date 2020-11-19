@@ -1,0 +1,56 @@
+html {
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 10px;
+}
+
+h2 {
+    font-size: 4rem;
+}
+
+ul,ol,dl,p {
+    font-size: 2rem;
+}
+
+#navigation a {
+    padding-left:3px;
+    padding-right:3px;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    font-size: 160%;
+}
+/*
+.big_font {
+    font-size: 150%;
+}*/
+/*
+
+/*
+h2 {
+    font-weight: bolder;
+}
+*/
+
+dt {
+    color: rgb(235, 42, 17);
+}
+
+ul dt {
+    color: black;
+}
+
+dd dl dt {
+    color: black;
+}
+
+.controll_content_size {
+    font-size: 2rem;
+}
+
+#info_left p {
+    font-size: 4rem;
+}
+
+#footer_description {
+    display: block;
+    text-align: center;
+    margin: auto;/*For no spacer between the text and the footer*/
+}
